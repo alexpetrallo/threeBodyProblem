@@ -1,4 +1,4 @@
-
+#will plot the Greek and Trojan asteroids around Jupiter L4 and L5 pts
 import numpy as np
 import scipy.integrate as ode
 import matplotlib.pyplot as plt
