@@ -1,4 +1,4 @@
-#3 d plot of force
+#3 d plot of potential
 
 import matplotlib.pyplot as plt
 import numpy as np
