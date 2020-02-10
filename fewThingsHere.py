@@ -1,16 +1,9 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 28 11:33:42 2020
-
-@author: aliciaeglin
-
-Name: Alicia Eglin
-Homework #X
-Due date
-File name
-Comments:
-"""
+#four plots here
+    #Force and Potential in 2-D
+    #Dimensionless Potential and Force Countour plot
+    #2-d force plot
+    #lagrange points on contour
+    
 
 import numpy as np
 import matplotlib.pyplot as plt
