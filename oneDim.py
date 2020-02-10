@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 27 23:34:09 2020
-
-@author: kpurc
-"""
-
+#one dimension plot
 
 import matplotlib.pyplot as plt
 import math
