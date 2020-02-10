@@ -1,17 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 28 01:14:14 2020
-
-@author: kpurc
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 27 23:51:51 2020
-
-@author: kpurc
-"""
-
+#3 d plot of force
 
 import matplotlib.pyplot as plt
 import numpy as np
